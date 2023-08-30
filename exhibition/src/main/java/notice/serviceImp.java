@@ -1,5 +1,5 @@
 package notice;
 
-public class serviceImp {
+public class serviceImp implements service {
 
 }
